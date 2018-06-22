@@ -1,0 +1,15 @@
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.exe.config
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.exe
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.pdb
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\obj\Debug\MainWindow.g.cs
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\obj\Debug\App.g.cs
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate_MarkupCompile.cache
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate_MarkupCompile.lref
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\obj\Debug\MainWindow.baml
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.g.resources
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.Properties.Resources.resources
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csproj.GenerateResource.Cache
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.exe
+C:\Users\Pavel\source\repos\Exchange\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.pdb
